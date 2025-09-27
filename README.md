@@ -4,7 +4,6 @@
 
 <div align="center">
   
-  <b>`プログラマ`</b>
   <samp>
       <br>
       Hello, friend! I'm <b>Francisco Mews</b>
