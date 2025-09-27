@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000"/>
 
 <br>
 
@@ -20,4 +20,4 @@
   <img src="https://img.shields.io/badge/francis-black" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
